@@ -8,6 +8,7 @@ This project implements AWS Lambda functions and API Gateway endpoints for manag
 - A Lambda function to fetch a single product item by `productId`.
 - API Gateway endpoints to expose these Lambda functions.
 - A web frontend to display the product list.
+- API integration with S3 buckets
 
 ## API Endpoints
 
